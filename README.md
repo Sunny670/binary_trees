@@ -33,25 +33,3 @@ We should understand and be able to answer this questions by the end of this pro
 17. Finds the sibling of a node
 18. Finds the uncle of a node
 19. Finds the lowest common ancestor of two nodes
-20. Goes through a binary tree using level-order traversal
-21. Checks if a binary tree is complete
-22. Performs a left-rotation on a binary tree
-23. Performs a right-rotation on a binary tree
-24. Checks if a binary tree is a valid Binary Search Tree
-25. Inserts a value in a Binary Search Tree
-26. Builds a Binary Search Tree from an array
-27. Searches for a value in a Binary Search Tree
-28. Removes a node from a Binary Search Tree
-29. What are the average time complexities of those operations on a Binary Search Tree
-30. Checks if a binary tree is a valid AVL Tree
-31. Inserts a value in an AVL Tree
-32. Builds an AVL tree from an array
-33. Removes a node from an AVL tree
-34. Builds an AVL tree from an array
-35. What are the average time complexities of those operations on an AVL Tree
-36. Checks if a binary tree is a valid Max Binary Heap (Task in progress)
-37. Inserts a value in Max Binary Heap (Task in progress)
-38. Builds a Max Binary Heap tree from an array (Task in progress)
-39. Extracts the root node of a Max Binary Heap (Task in progress)
-40. Converts a Binary Max Heap to a sorted array of integers (Task in progress)
-41. What are the average time complexities of those operations on a Binary Heap
